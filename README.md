@@ -98,3 +98,11 @@ Genera pruebas automáticamente con Codegen.
 
 Si tienes dudas o sugerencias, siéntete libre de contribuir o abrir un issue en el repositorio. 🚀
 
+## Notas:
+Puedes volver a instalar los navegadores que Playwright necesita con este comando:
+
+```sh
+npx playwright install
+```
+
+
