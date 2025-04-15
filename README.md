@@ -104,5 +104,8 @@ Puedes volver a instalar los navegadores que Playwright necesita con este comand
 ```sh
 npx playwright install
 ```
+Si exite problema de permisos en win ejecuta el siguiente comando:
 
-
+```sh
+Set-ExecutionPolicy -Scope CurrentUser unrestricted
+```
